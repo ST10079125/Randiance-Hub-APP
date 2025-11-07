@@ -20,7 +20,7 @@ The purpose of **RadianceHub** is to modernize how beauty and wellness services 
 - Simplify service discovery and appointment scheduling.
 - Enable user registration with encrypted credentials and SSO.
 - Provide beauty professionals with management and booking tools.
-- Offer multilingual support (English and isiZulu).
+- Offer multilingual support (English, Sepedi and Venda).
 - Include offline functionality and push notifications.
 - Prepare the app for Google Play Store publication.
 
@@ -45,7 +45,7 @@ The purpose of **RadianceHub** is to modernize how beauty and wellness services 
    - Firebase Cloud Messaging (FCM) sends real-time updates for bookings and reminders.
 
 5. **Multilingual Support**
-   - Supports English and isiZulu.
+   - Supports English, Sepedi and Venda.
    - Users can select their preferred language in Settings.
 
 6. **Payments**
