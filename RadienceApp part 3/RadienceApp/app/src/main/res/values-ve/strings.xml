@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RadianceHub</string>
+    <string name="welcome_text">Vhukhakhi ha RadianceHub</string>
+    <string name="login">Ngena</string>
+    <string name="signup">Itani akhaungo</string>
+    <string name="username">Dzina ḽa mushumisi</string>
+    <string name="email">Imeili</string>
+    <string name="password">Phasiwede</string>
+    <string name="confirm_password">Khwaṱhisedzani phasiwede</string>
+    <string name="signin_with_google">Ngenani nga Google</string>
+
+    <!-- General -->
+    <string name="swipe_to_explore">Swibelani u ṱola mushumo washu</string>
+
+    <!-- Navigation -->
+    <string name="home">Hayani</string>
+    <string name="services">Mushumo</string>
+    <string name="about">Nga ha</string>
+    <string name="contact">Tanganedzani</string>
+    <string name="map">Mapu</string>
+
+    <!-- Services Categories -->
+    <string name="nails">💅 Mawanga</string>
+    <string name="hair">💇 Vhudzi</string>
+    <string name="facial">🧖 Maso</string>
+    <string name="massage">💆 Maseji</string>
+    <string name="book_now">Rengani zwino</string>
+
+    <!-- Nails Services -->
+    <string name="nails_section">💅 Mawanga</string>
+    <string name="basic_manicure">Manicure ya Vhuthihi</string>
+    <string name="gel_overlay">Gel Overlay</string>
+    <string name="full_set_acrylic">Sete Yoṱhe ya Acrylic</string>
+    <string name="nail_art">Vhubviseli ha Mawanga</string>
+
+    <!-- Hair Services -->
+    <string name="dry_install_short">Dry Install (Pfufhi)</string>
+    <string name="cornrow_extension">Cornrow/Extension</string>
+    <string name="blow_and_curl">Blow na Curl</string>
+    <string name="treatment_and_style">Vhulondzi na Style</string>
+
+    <!-- Facial Services -->
+    <string name="basic_facial">Facial ya Vhuthihi</string>
+    <string name="deep_cleansing">U Takadza nga Tshikhalaho</string>
+    <string name="glow_facial">Facial ya U Penya</string>
+    <string name="anti_ageing">Kha U Sa Vhofha</string>
+
+    <!-- Massage Services -->
+    <string name="swedish_massage">Maseji ya Swedish</string>
+    <string name="back_and_neck">Muṋa na Tshifhinga</string>
+    <string name="full_body">Muvhili Woṱhe</string>
+    <string name="hot_stone">Dzhwiti Ḽa Fhisa</string>
+
+    <!-- Prices -->
+    <string name="price_r350">R350</string>
+    <string name="price_r250">R250</string>
+    <string name="price_r20_40">R20-R40</string>
+    <string name="price_r400">R400</string>
+    <string name="price_r1100">R1100</string>
+    <string name="price_r800">R800</string>
+    <string name="price_r500">R500</string>
+    <string name="price_r300">R300</string>
+    <string name="price_r500_facial">R500</string>
+    <string name="price_r600">R600</string>
+    <string name="price_r800_facial">R800</string>
+    <string name="price_r400_massage">R400</string>
+    <string name="price_r250_massage">R250</string>
+    <string name="price_r450">R450</string>
+    <string name="price_r500_massage">R500</string>
+
+    <!-- Profile & Settings -->
+    <string name="settings">Muitele</string>
+    <string name="customize_experience">Itani uri zwe na vhona zwi tevhelane na vhone</string>
+    <string name="profile_settings">Muitele wa Phrofaela</string>
+    <string name="profile_manage_info">Konani mafhungo a akhaundu yanu</string>
+    <string name="profile">Phrofaela</string>
+    <string name="notifications">Nzivhadzo</string>
+
+    <!-- Language -->
+    <string name="language">Luambo</string>
+    <string name="choose_language">Nangani luambo lwe na lu taha</string>
+    <string name="english">English</string>
+    <string name="sepedi">Sepedi</string>
+    <string name="venda">Venda</string>
+
+    <!-- About -->
+    <string name="about_radiancehub">Nga ha RadianceHub</string>
+    <string name="learn_more">Gudani zwinzhi nga ha mushumo washu</string>
+    <string name="app_version">Vhersheni ya App: RadianceHub v1.0.0</string>
+
+    <!-- Messages -->
+    <string name="language_changed">Luambo lwo shandukiswa kha %1$s</string>
+    <string name="logout">Bvani</string>
+    <string name="logout_message">Naa ni khou pfa uri no toda u bva?</string>
+    <string name="yes">Ee</string>
+    <string name="cancel">Khansela</string>
+    <string name="logged_out">No bva</string>
+</resources>

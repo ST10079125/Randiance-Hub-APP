@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RadianceHub</string>
+    <string name="welcome_text">Re a le amogela go RadianceHub</string>
+    <string name="login">Kena</string>
+    <string name="signup">Ngwadiša</string>
+    <string name="username">Leina la modiriši</string>
+    <string name="email">Imeile</string>
+    <string name="password">Phasewete</string>
+    <string name="confirm_password">Netefatša phasewete</string>
+    <string name="signin_with_google">Kena ka Google</string>
+
+    <!-- Navigation -->
+    <string name="home">Legae</string>
+    <string name="services">Ditirelo</string>
+    <string name="about">Ka ga rena</string>
+    <string name="contact">Ikgokaganye le rena</string>
+    <string name="map">Mmapa</string>
+
+    <!-- Services Categories -->
+    <string name="nails">💅Dikhura</string>
+    <string name="hair">💇Moriri</string>
+    <string name="facial">🧖Tlhokomelo ya sefahlego</string>
+    <string name="massage">💆Maseaše</string>
+    <string name="book_now">Beakanya gona bjale</string>
+
+    <!-- Nails Services -->
+    <string name="basic_manicure">Manicure ya Motheo</string>
+    <string name="gel_overlay">Gel Overlay</string>
+    <string name="full_set_acrylic">Seti e Fapaneng sa Acrylic</string>
+    <string name="nail_art">Bonono bja Menaka</string>
+
+    <!-- Hair Services -->
+    <string name="dry_install_short">Dry Install (Kgolo e Khutswa)</string>
+    <string name="cornrow_extension">Cornrow/Extension</string>
+    <string name="blow_and_curl">Go Fefola le Go Thiba</string>
+    <string name="treatment_and_style">Tlhokomelo le Setilo</string>
+
+    <!-- Facial Services -->
+    <string name="basic_facial">Boitsebi bja Motheo</string>
+    <string name="deep_cleansing">Go Hlwekiša ka Botlalo</string>
+    <string name="glow_facial">Boitsebi bja Khanya</string>
+    <string name="anti_ageing">Kgahlego kgahlano le Bokgale</string>
+
+    <!-- Massage Services -->
+    <string name="swedish_massage">Massage ya Swedish</string>
+    <string name="back_and_neck">Morao le Tlhaselo ya Leihlo</string>
+    <string name="full_body">Melelo ka Botlalo</string>
+    <string name="hot_stone">Lejoe le Lešwa</string>
+
+    <!-- Prices -->
+    <string name="price_r350">R350</string>
+    <string name="price_r250">R250</string>
+    <string name="price_r20_40">R20-R40</string>
+    <string name="price_r400">R400</string>
+    <string name="price_r1100">R1100</string>
+    <string name="price_r800">R800</string>
+    <string name="price_r500">R500</string>
+    <string name="price_r300">R300</string>
+    <string name="price_r500_facial">R500</string>
+    <string name="price_r600">R600</string>
+    <string name="price_r800_facial">R800</string>
+    <string name="price_r400_massage">R400</string>
+    <string name="price_r250_massage">R250</string>
+    <string name="price_r450">R450</string>
+    <string name="price_r500_massage">R500</string>
+
+    <!-- Profile & Settings -->
+    <string name="settings">Dikgahlego</string>
+    <string name="customize_experience">Ikgethele maitemogelo a gago</string>
+    <string name="profile_settings">Dikgahlego tša Akhaonto</string>
+    <string name="profile_manage_info">Laola tshedimosetso ya akhaonto ya gago</string>
+    <string name="profile">Akhaonto</string>
+    <string name="notifications">Ditsebiso</string>
+
+    <!-- Language -->
+    <string name="language">Leleme</string>
+    <string name="choose_language">Kgetha polelo ye o e ratago</string>
+    <string name="english">English</string>
+    <string name="sepedi">Sepedi</string>
+    <string name="venda">Venda</string>
+
+    <!-- About -->
+    <string name="about_radiancehub">Ka ga RadianceHub</string>
+    <string name="learn_more">Ithute ka ga ditirelo tša rena</string>
+    <string name="app_version">Phetolelo ya Setatamente: RadianceHub v1.0.0</string>
+
+    <!-- Messages -->
+    <string name="language_changed">Leleme le fetotšwe go %1$s</string>
+    <string name="logout">Tšwa</string>
+    <string name="logout_message">Na o nyaka go tšwa ruri?</string>
+    <string name="yes">Ee</string>
+    <string name="cancel">Khansela</string>
+    <string name="logged_out">O tšwile ka katlego</string>
+</resources>
