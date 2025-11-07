@@ -100,7 +100,7 @@ The purpose of **RadianceHub** is to modernize how beauty and wellness services 
 2. Added Authentication & SSO
 3. Integrated REST API and RoomDB Sync
 4. Implemented Push Notifications
-5. Added Multi-Language Support (English & isiZulu)
+5. Added Multi-Language Support (English, Sepedi & Venda)
 6. UI Enhancements & Final Assets
 7. Configured GitHub Actions Workflow
 8. Publishing Preparation and README Update
