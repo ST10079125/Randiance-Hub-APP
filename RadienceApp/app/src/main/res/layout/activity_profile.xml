@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:background="@color/purple_primary">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="My Profile"
+            android:textColor="@color/white"
+            android:textSize="26sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="20dp" />
+
+        <EditText
+            android:id="@+id/edit_profile_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Full Name"
+            android:textColor="@color/white"
+            android:textColorHint="#D3D3D3"
+            android:inputType="textPersonName"
+            android:backgroundTint="@color/white"
+            android:layout_marginBottom="16dp" />
+
+        <EditText
+            android:id="@+id/edit_profile_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Email"
+            android:textColor="@color/white"
+            android:textColorHint="#D3D3D3"
+            android:inputType="textEmailAddress"
+            android:backgroundTint="@color/white"
+            android:layout_marginBottom="16dp" />
+
+        <EditText
+            android:id="@+id/edit_profile_password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="New Password"
+            android:textColor="@color/white"
+            android:textColorHint="#D3D3D3"
+            android:inputType="textPassword"
+            android:backgroundTint="@color/white"
+            android:layout_marginBottom="24dp" />
+
+        <Button
+            android:id="@+id/save_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Save Changes"
+            android:backgroundTint="@color/white"
+            android:textColor="@color/purple_primary"
+            android:layout_marginBottom="16dp" />
+
+        <Button
+            android:id="@+id/change_password_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Change Password"
+            android:backgroundTint="@color/white"
+            android:textColor="@color/purple_primary" />
+
+    </LinearLayout>
+</ScrollView>

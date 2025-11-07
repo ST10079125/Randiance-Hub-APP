@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RadianceHub</string>
+    <string name="welcome_text">Welcome to RadianceHub</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign up</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="signin_with_google">Sign in with Google</string>
+
+    <!-- General -->
+    <string name="swipe_to_explore">Swipe to explore our services</string>
+
+    <!-- Navigation -->
+    <string name="home">Home</string>
+    <string name="services">Services</string>
+    <string name="about">About</string>
+    <string name="contact">Contact</string>
+    <string name="map">Map</string>
+
+    <!-- Services Categories -->
+    <string name="nails">💅 Nails</string>
+    <string name="hair">💇 Hair</string>
+    <string name="facial">🧖 Facial</string>
+    <string name="massage">💆 Massage</string>
+    <string name="book_now">Book Now</string>
+
+    <!-- Nails Services -->
+    <string name="nails_section">💅 Nails</string>
+    <string name="basic_manicure">Basic Manicure</string>
+    <string name="gel_overlay">Gel Overlay</string>
+    <string name="full_set_acrylic">Full Set Acrylic</string>
+    <string name="nail_art">Nail Art</string>
+
+    <!-- Hair Services -->
+    <string name="dry_install_short">Dry Install (Short)</string>
+    <string name="cornrow_extension">Cornrow/Extension</string>
+    <string name="blow_and_curl">Blow and Curl</string>
+    <string name="treatment_and_style">Treatment and Style</string>
+
+    <!-- Facial Services -->
+    <string name="basic_facial">Basic Facial</string>
+    <string name="deep_cleansing">Deep Cleansing</string>
+    <string name="glow_facial">Glow Facial</string>
+    <string name="anti_ageing">Anti-Ageing</string>
+
+    <!-- Massage Services -->
+    <string name="swedish_massage">Swedish Massage</string>
+    <string name="back_and_neck">Back and Neck</string>
+    <string name="full_body">Full Body</string>
+    <string name="hot_stone">Hot Stone</string>
+
+    <!-- Prices -->
+    <string name="price_r350">R350</string>
+    <string name="price_r250">R250</string>
+    <string name="price_r20_40">R20-R40</string>
+    <string name="price_r400">R400</string>
+    <string name="price_r1100">R1100</string>
+    <string name="price_r800">R800</string>
+    <string name="price_r500">R500</string>
+    <string name="price_r300">R300</string>
+    <string name="price_r500_facial">R500</string>
+    <string name="price_r600">R600</string>
+    <string name="price_r800_facial">R800</string>
+    <string name="price_r400_massage">R400</string>
+    <string name="price_r250_massage">R250</string>
+    <string name="price_r450">R450</string>
+    <string name="price_r500_massage">R500</string>
+
+    <!-- Profile & Settings -->
+    <string name="settings">Settings</string>
+    <string name="customize_experience">Customize your experience</string>
+    <string name="profile_settings">Profile Settings</string>
+    <string name="profile_manage_info">Manage your account information</string>
+    <string name="profile">Profile</string>
+    <string name="notifications">Notifications</string>
+
+    <!-- Language -->
+    <string name="language">Language</string>
+    <string name="choose_language">Choose your preferred language</string>
+    <string name="english">English</string>
+    <string name="sepedi">Sepedi</string>
+    <string name="venda">Venda</string>
+
+    <!-- About -->
+    <string name="about_radiancehub">About RadianceHub</string>
+    <string name="learn_more">Learn more about our services</string>
+    <string name="app_version">App Version: RadianceHub v1.0.0</string>
+
+    <!-- Messages -->
+    <string name="language_changed">Language changed to %1$s</string>
+    <string name="logout">Logout</string>
+    <string name="logout_message">Are you sure you want to logout?</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="logged_out">You have been logged out</string>
+</resources>
